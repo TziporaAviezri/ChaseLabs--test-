@@ -1,0 +1,31 @@
+------ans1:
+Use whith Promise.all()
+
+------ans2:
+Recursion: write-easy code that is understandable and elegant but it can run into stack overflow problems.
+Iteration: usually faster, saves memory but it can be completely obscure.
+
+------ans3:
+In the code
+
+------ ans4:
+It is enough that only one promise will be rejected so that the whole program will be rejected
+
+------ ans5:
+In the code
+
+------ ans6:
+In the code
+
+------ans7: 
+GET  /users/GetSome?id=1,2,3 
+POSt /users/replaceUser/{idNewUser} 
+PUT  /users/createSome?id=1,2,3
+
+------ans8:
+An access token is a string that the OAuth client uses to send requests to the resource server.
+A refresh token is a string that an OAuth client can use to get a new access token without user interaction
+The refresh token exists to allow authorization servers to use short lifetimes for access tokens without having to involve the user when the token expires
+
+------ans9:
+q='1234' in parents and name contains '.pdf' or sharedWithMe and name contains '.mp3' or name contains 'important'

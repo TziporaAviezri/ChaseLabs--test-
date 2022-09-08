@@ -1,0 +1,18 @@
+li.mango {
+    border: 5px solid black;
+    margin: 2px;
+}
+
+.container> :nth-child(5) {
+    border: 5px solid orange;
+    margin: 2px;
+}
+
+[type="green"] {
+    background: green;
+    color     : azure;
+}
+
+.container> :nth-child(1n) {
+    padding: 2px;
+}
